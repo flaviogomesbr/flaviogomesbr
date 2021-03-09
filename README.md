@@ -1,6 +1,7 @@
 ## Hey 👋, I'm Flavio Gomes
 
 Hi there, I'm **Flavio Gomes**, **a self-taught student of software engineering**.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=flaviogomesbr" alt="flaviogomesbr" /> </p> 
 
 I love codes, bikes, music and art!
 
