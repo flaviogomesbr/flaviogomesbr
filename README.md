@@ -1,8 +1,6 @@
 <h1 align="center">Hi! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Flavio Gomes</h1>
  <p align="center"><br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=flaviogomesbr" alt="flaviogomesbr" /> </p> 
-
   <a href="https://www.linkedin.com/in/flaviogomesbr/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white">
   </a>
@@ -17,15 +15,15 @@
 <h3 align="center">Bachelor's degree in Civil Engineer</h3>
 
 <p align="center">
+  <img alt="ProfilViews" src="https://views.whatilearened.today/views/github/flaviogomesbr/flaviogomesbr.svg" />
   <img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=flaviogomesbr.flaviogomesbr" />
-  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/flaviogomesbr/flaviogomesbr.svg" />
 </p>
 
 <img width="30%" align="right" alt="Github Image" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif"/>
 
 - 🤖🎨 I love technology and art (Da Vinci, that's my man);
 - 🕵️‍ I'm always looking for problems to solve. I love it!
-- ⏳ I’m currently working on **EduImpulso** <p> EduImpulso <a href="https://eduimpulso.herokuapp.com/"></a></p>
+- ⏳ I’m currently working on **EduImpulso** <p align="center">[EduImpulso](https://github.com/flaviogomesbr)</p>
 - 📚 I’m currently learning **JAVA**
 - ✅ My interests are with **JAVA, Javascript & Python programming, AI and algorithms**;
 - 💬 Ask me about anything, **I am happy to help**;
