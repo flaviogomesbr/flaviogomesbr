@@ -31,6 +31,6 @@ I love codes, bikes, music and art!
 
 ### My GitHub Stats
 
-![Flavio's github stats](https://github-readme-stats.vercel.app/api?username=flaviogomesbr9006&show_icons=true&theme=radical)
+![Flavio's github stats](https://github-readme-stats.vercel.app/api?username=flaviogomesbr&show_icons=true&theme=radical)
 
 ⭐️ From [flaviogomesbr](https://github.com/flaviogomesbr)
