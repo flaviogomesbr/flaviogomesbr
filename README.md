@@ -7,7 +7,7 @@ I love codes, bikes, music and art!
 
 ### Talking about Personal Stuffs:
 
-- 👨🏽‍💻 I’m currently a medical student at my 4th year; 
+- 👨🏽‍💻 I’m currently a fullstack student at RECODE pro; 
 - 🤔 My interests are with JAVA, Javascript & React programming, AI in civil construction and algorithms;
 - 💼 I've a Bachelor's degree in Civil Engineer;
 - 💬 Ask me about anything, I'm happy to help;
