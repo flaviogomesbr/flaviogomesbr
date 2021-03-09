@@ -50,7 +50,7 @@
   <code><a href="https://www.learn-c.org/" target="_blank"><img width="5%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>                      
   <br />
 
-  <code><a href="https://www.php.net/" target="_blank"><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"><a href="https://www.php.net/" target="_blank"></code>
   <code><a href="https://www.mysql.com/" target="_blank"><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
   <code><a href="https://nodejs.org/en/" target="_blank"><img width="5%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
   <br />
