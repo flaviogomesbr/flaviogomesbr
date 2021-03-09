@@ -1,11 +1,11 @@
 <h1 align="center">< Hello world /> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Flavio Gomes</h1>
  <p align="center"><br/>
 
-  <a href="https://www.linkedin.com/in/flaviogomesbr/">
+  <a href="https://www.linkedin.com/in/flaviogomesbr/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white">
   </a>
 
-  <a href="mailto:flaviogonasc@gmail.com">
+  <a href="mailto:flaviogonasc@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white">
   </a>
 
@@ -27,7 +27,7 @@
 - ✅ My interests are with **JAVA, Javascript & Python programming, AI and algorithms**
 - 💬 Ask me about anything, **I am happy to help**
 - ⚡ Fun fact: **I love dogs, memes, bikes and music** 🐶 👽 🚲 📻 
-- ⏳ I’m currently working on: <p align="center">[EduImpulso](https://eduimpulso.herokuapp.com/)</p>
+- ⏳ I’m currently working on: <a href="https://eduimpulso.herokuapp.com" target="_blank">EduImpulso </a>
 
 <br/>
 <br/>
