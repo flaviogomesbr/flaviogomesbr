@@ -45,9 +45,9 @@
   
   
   <code><a href="https://www.java.com/en/" target="_blank"><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <code><a href="https://www.javascript.com/" target="_blank"><img width="10%"src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+  <code><a href="https://www.javascript.com/" target="_blank"><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
   <code><a href="https://www.python.org/" target="_blank"><img width="5%"  src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
-  <code><img width="5%" href="https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o)"                 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+  <code><a href="https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o)" target="_blank"><img width="5%"            src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
   <br />
 
   <code><img width="10%" href="https://www.php.net/" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"></code>
