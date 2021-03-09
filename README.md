@@ -27,9 +27,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
   </p>
 
 
-
-### My GitHub Stats
-
-![Flavio's github stats](https://github-readme-stats.vercel.app/api?username=flaviogomesbr&show_icons=true&theme=radical)
+### Languages and Tools:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flaviogomesbr&langs_count=8&theme=radical)
 
 ⭐️ From [flaviogomesbr](https://github.com/flaviogomesbr)
