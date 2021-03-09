@@ -27,7 +27,7 @@
 - 🕵️‍ I'm always looking for problems to solve. I love it!
 - ⏳ I’m currently working on **EduImpulso** <a href="https://eduimpulso.herokuapp.com/"></a>
 - 📚 I’m currently learning **JAVA**
-- ✅ My interests are with **JAVA, Javascript & React programming, AI in civil construction and algorithms**;
+- ✅ My interests are with **JAVA, Javascript & Python programming, AI and algorithms**;
 - 💬 Ask me about anything, **I am happy to help**;
 - ⚡ Fun fact ... **I love dogs, memes, bikes and music** 🐶 👽 🚲 📻 
 
@@ -54,7 +54,7 @@
   <br />
 
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+  <code><img width="5%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>
   <br />
 
