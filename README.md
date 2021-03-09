@@ -37,7 +37,7 @@
 <p>
 
   <a href="https://github.com/flaviogomesbr/github-readme-stats">
-    <img width="40%" align="right" alt="FlavioGomes's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviogomesbr&layout=compact" />
+    <img width="40%" align="right" alt="FlavioGomes's github stats" src="<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviogomesbr&count_private=true&theme=dracula">" />
   </a>
 
   
