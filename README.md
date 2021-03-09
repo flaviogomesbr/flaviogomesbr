@@ -26,8 +26,8 @@
 - 📚 I’m currently learning **JAVA**
 - ✅ My interests are with **JAVA, Javascript & Python programming, AI and algorithms**
 - 💬 Ask me about anything, **I am happy to help**
-- ⚡ Fun fact ... **I love dogs, memes, bikes and music** 🐶 👽 🚲 📻 
-- ⏳ I’m currently working on: <p align="left">[EduImpulso](https://eduimpulso.herokuapp.com/)</p>
+- ⚡ Fun fact: **I love dogs, memes, bikes and music** 🐶 👽 🚲 📻 
+- ⏳ I’m currently working on: <p align="center">[EduImpulso](https://eduimpulso.herokuapp.com/)</p>
 
 <br/>
 <br/>
