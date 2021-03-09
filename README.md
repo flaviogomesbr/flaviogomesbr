@@ -1,34 +1,80 @@
-## Hey! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Flavio Gomes
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Flavio Gomes</h1>
+ <p align="center"><br/>
 
-Hi there, I'm **Flavio Gomes**, **a self-taught student of software engineering**.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flaviogomesbr" alt="flaviogomesbr" /> </p> 
 
-I love technology 🤖, code 👨💻, bike 🚲, music 🎧 and art 🎨!
+  <a href="https://www.linkedin.com/in/flaviogomesbr/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white">
+  </a>
 
-### Talking about Personal Stuffs:
+  <a href="mailto:flaviogonasc@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white">
+  </a>
 
-- 👨🏽‍💻 I’m currently a fullstack student at RECODE pro; 
-- 🤔 My interests are with JAVA, Javascript & React programming, AI in civil construction and algorithms;
-- 💼 I've a Bachelor's degree in Civil Engineer;
-- 💬 Ask me about anything, I'm happy to help;
-- 📫 Please email me if you have any questions.
+</p>
 
-### Languages and Tools that I'm interested in and studying:
+<h3 align="center">Software engineering self-taught student from Brazil</h3>
+<h3 align="center">Bachelor's degree in Civil Engineer</h3>
 
-   <p align="center">
-  <div align="center">
-    
-<code><img height="40"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> <code><img height="40"                   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg"></code> <code><img height="40" 
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<p align="center">
+  <img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=flaviogomesbr.flaviogomesbr" />
+  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/flaviogomesbr/flaviogomesbr.svg" />
+</p>
 
+<img width="30%" align="right" alt="Github Image" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif"/>
 
-  </div>
-  </p>
+- 🤖🎨 I love technology and art (Da Vinci, that's my man);
+- 🕵️‍ I'm always looking for problems to solve. I love it!
+- ⏳ I’m currently working on **EduImpulso** <a href="https://eduimpulso.herokuapp.com/"></a>
+- 📚 I’m currently learning ... **JAVA**
+- ✅ My interests are with **JAVA, Javascript & React programming, AI in civil construction and algorithms**;
+- 💬 Ask me about anything, **I am happy to help**;
+- ⚡ Fun fact ... **I love dogs, memes, bikes and music** 🐶 👽 🚲 📻 
 
+<br/>
+<br/>
 
-### My main languages currently:
+<h4>Skills and Tools:</h4> 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flaviogomesbr&langs_count=8&theme=radical)
+<p>
 
-⭐️ From [flaviogomesbr](https://github.com/flaviogomesbr)
+  <a href="https://github.com/flaviogomesbr/github-readme-stats">
+    <img width="40%" align="right" alt="FlavioGomes's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviogomesbr&layout=compact" />
+  </a>
+
+  
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+</p>
+
+<h4>Desktop Environment:</h4>
+<p align="left">
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg"></code>
+</p>
+
+<br/>
+
+<p align="center">
+
+👨‍🚀 by [Flavio Gomes](https://github.com/flaviogomesbr)
+
+</p>
