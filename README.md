@@ -41,9 +41,9 @@
   <img width="35%" align="right" alt="FlavioGomes's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviogomesbr&count_private=true&theme=dracula">
   </a>
 
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"><href="https://www.java.com/en/" target="_blank"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"><href="https://www.javascript.com/" target="_blank"></code>
-  <code><img width="5%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"><href="https://www.python.org/" target="_blank"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"><a href="https://www.java.com/en/" target="_blank"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"><a href="https://www.javascript.com/" target="_blank"></code>
+  <code><img width="5%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"><a href="https://www.python.org/" target="_blank"></code>
   <code><img width="5%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"><a href="https://www.learn-c.org/" target="_blank"></code>         
   <br />
 
