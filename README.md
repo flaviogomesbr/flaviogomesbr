@@ -27,12 +27,12 @@
 - ✅ My interests are with **JAVA, Javascript & Python programming, AI and algorithms**;
 - 💬 Ask me about anything, **I am happy to help**;
 - ⚡ Fun fact ... **I love dogs, memes, bikes and music** 🐶 👽 🚲 📻 
-- ⏳ I’m currently working on **EduImpulso** <p>[EduImpulso](https://github.com/flaviogomesbr)</p>
+- ⏳ I’m currently working on: <p>[EduImpulso](https://eduimpulso.herokuapp.com/)</p>
 
 <br/>
 <br/>
 
-<h4>Languages and frameworks that I'm interested in and studying:</h4> 
+<h3>Languages and frameworks that I'm interested in and studying:</h3> 
 
 <p>
 
@@ -55,17 +55,15 @@
   <code><img width="5%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
-
   <br />
 
   <code><img width="5%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
   <code><img width="5%" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></code>
   <br />
-
-  
+  <br />
 </p>
 
-<h4>Desktop Environment that I'm interested in and studying:</h4>
+<h3>Desktop Environment that I'm interested in and studying:</h3>
 <p align="left">
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
