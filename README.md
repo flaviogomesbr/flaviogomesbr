@@ -77,6 +77,8 @@
   <code><img width="10%" href="https://ubuntu.com/" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
   <code><img width="10%" href="https://www.linux.org/" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
   <code><img width="10%" href="https://www.microsoft.com/" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-ar21.svg"></code>
+  <br />
+  
   <code><img width="10%" href="https://discord.com/" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-ar21.svg"></code>
   <code><img width="5%" href="https://slack.com/intl/pt-br/" src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg"></code>
 </p>
