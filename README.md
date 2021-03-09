@@ -19,7 +19,7 @@
   <img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=flaviogomesbr.flaviogomesbr" />
 </p>
 
-<img width="30%" align="right" alt="Github Image" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif"/>
+<img width="20%" align="right" alt="Github Image" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif"/>
 
 - 🤖🎨 I love technology and art (Da Vinci, you're the man!)
 - 🕵️‍ I'm always looking for problems to solve. I love it!
