@@ -44,6 +44,7 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
   <code><img width="5%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
+  <code><img width="5%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
   <br />
 
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"></code>
@@ -59,6 +60,11 @@
 
   <code><img width="5%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
   <code><img width="5%" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></code>
+  <code><img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg"></code>
+  <code><img width="5%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+  
+  
+  
   <br />
   <br />
 </p>
