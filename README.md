@@ -1,4 +1,6 @@
-<h1 align="center">< Hello world /> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Flavio Gomes</h1>
+<h1 align="center">< Hello world /> 
+                   <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px">
+                   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Flavio Gomes</h1>
  <p align="center"><br/>
 
   <a href="https://www.linkedin.com/in/flaviogomesbr/"  target="_blank">
