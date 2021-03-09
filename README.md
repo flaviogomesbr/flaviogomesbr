@@ -42,28 +42,28 @@
   </a>
 
   
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-  <code><img width="5%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
-  <code><img width="5%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+  <code><img width="10%" href="https://www.java.com/en/" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  <code><img width="10%" href="https://www.javascript.com/" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+  <code><img width="5%" href="https://www.python.org/" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
+  <code><img width="5%" href="https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o)"                 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
   <br />
 
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="5%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
+  <code><img width="10%" href="https://www.php.net/" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"></code>
+  <code><img width="10%" href="https://www.mysql.com/" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img width="5%" href="https://nodejs.org/en/" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
   <br />
 
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  <code><img width="5%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
+  <code><img width="10%" href="https://pt-br.reactjs.org/" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+  <code><img width="5%" href="https://www.w3schools.com/html/default.asp" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
+  <code><img width="10%" href="https://www.w3schools.com/css/css_website_layout.asp" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>
+  <code><img width="10%" href="https://getbootstrap.com/" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
   <br />
 
-  <code><img width="5%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
-  <code><img width="5%" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></code>
-  <code><img width="5%" src="https://images.ctfassets.net/lpjm8d10rkpy/6GIrtBy1QABNIFNcnyKxo1/8e651d482fe0e350280991535b171582/aws.svg"></code>
-  <code><img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg"></code>
-  <code><img width="5%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+  <code><img width="5%" href="https://git-scm.com/" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
+  <code><img width="5%" href="https://github.com/" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></code>
+  <code><img width="5%" href="https://aws.amazon.com/" src="https://images.ctfassets.net/lpjm8d10rkpy/6GIrtBy1QABNIFNcnyKxo1/8e651d482fe0e350280991535b171582/aws.svg"></code>
+  <code><img width="5%" href="https://www.heroku.com/" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg"></code>
+  <code><img width="5%" href="https://www.vim.org/" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
   
   
   
@@ -73,12 +73,12 @@
 
 <h3>Desktop Environment that I'm interested in and studying:</h3>
 <p align="left">
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-ar21.svg"></code>
-  <code><img width="5%" src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg"></code>
+  <code><img width="10%" href="https://code.visualstudio.com/" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+  <code><img width="10%" href="https://ubuntu.com/" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
+  <code><img width="10%" href="https://www.linux.org/" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+  <code><img width="10%" href="https://www.microsoft.com/" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-ar21.svg"></code>
+  <code><img width="10%" href="https://discord.com/" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-ar21.svg"></code>
+  <code><img width="5%" href="https://slack.com/intl/pt-br/" src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg"></code>
 </p>
 
 <br/>
