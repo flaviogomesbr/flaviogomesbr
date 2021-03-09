@@ -1,19 +1,15 @@
-![me](https://github.com/flaviogomesbr/flaviogomesbr/raw/master/assets/me.gif)
-
 ## Hey 👋, I'm Flavio Gomes
 
-Hi there, I'm **Flavio Gomes**, a **a self-taught student of software engineering**.
+Hi there, I'm **Flavio Gomes**, **a self-taught student of software engineering**.
 
-I am **[Uyghur](https://en.wikipedia.org/wiki/Uyghurs)**, which is a minority in China. Now I am studying medical imaging at **[HUST](http://english.hust.edu.cn/)**.
-
-I love code and music!
+I love codes, bikes, music and art!
 
 ### Talking about Personal Stuffs:
 
 - 👨🏽‍💻 I’m currently a medical student at my 4th year; 
-- 🤔 My interests are with iOS and macOS programming, AI in medical, Python etc..;
-- 💼 I’m pursuing a Bachelor's degree in Medical Imaging;
-- 💬 Ask me about anything, I am happy to help;
+- 🤔 My interests are with JAVA, Javascript & React programming, AI in civil construction and algorithms;
+- 💼 I've a Bachelor's degree in Civil Engineer;
+- 💬 Ask me about anything, I'm happy to help;
 - 📫 Please email me if you have any questions.
 
 ### Languages and Tools:
@@ -35,6 +31,6 @@ I love code and music!
 
 ### My GitHub Stats
 
-![L1cardo's github stats](https://github-readme-stats.vercel.app/api?username=flaviogomesbr&show_icons=true)
+![Flavio's github stats](https://github-readme-stats.vercel.app/api?username=flaviogomesbr9006&show_icons=true&theme=radical)
 
 ⭐️ From [flaviogomesbr](https://github.com/flaviogomesbr)
