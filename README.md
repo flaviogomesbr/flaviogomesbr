@@ -25,7 +25,7 @@
 
 - 🤖🎨 I love technology and art (Da Vinci, that's my man);
 - 🕵️‍ I'm always looking for problems to solve. I love it!
-- ⏳ I’m currently working on **EduImpulso** <a href="https://eduimpulso.herokuapp.com/"></a>
+- ⏳ I’m currently working on **EduImpulso** <p> EduImpulso <a href="https://eduimpulso.herokuapp.com/"></a></p>
 - 📚 I’m currently learning **JAVA**
 - ✅ My interests are with **JAVA, Javascript & Python programming, AI and algorithms**;
 - 💬 Ask me about anything, **I am happy to help**;
@@ -56,6 +56,8 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <code><img width="5%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
+
   <br />
 
   <code><img width="5%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
