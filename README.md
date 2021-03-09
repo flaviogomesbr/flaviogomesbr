@@ -21,7 +21,7 @@
 
 <img width="30%" align="right" alt="Github Image" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif"/>
 
-- 🤖🎨 I love technology and art (Da Vinci, that's my man)
+- 🤖🎨 I love technology and art (Da Vinci, you're the man!)
 - 🕵️‍ I'm always looking for problems to solve. I love it!
 - 📚 I’m currently learning **JAVA**
 - ✅ My interests are with **JAVA, Javascript & Python programming, AI and algorithms**
