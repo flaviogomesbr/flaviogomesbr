@@ -19,7 +19,7 @@
   <img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=flaviogomesbr.flaviogomesbr" />
 </p>
 
-<img width="10%" align="right" alt="Github Image" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif"/>
+<img width="30%" align="right" alt="Github Image" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif"/>
 
 - 🤖🎨 I love technology and art (Da Vinci, you're the man!)
 - 🕵️‍ I'm always looking for problems to solve. I love it!
@@ -37,7 +37,7 @@
 <p>
 
   <a href="https://github.com/flaviogomesbr/github-readme-stats">
-    <img width="40%" align="right" alt="FlavioGomes's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviogomesbr&count_private=true&theme=dracula">
+  <img width="20%" align="right" alt="FlavioGomes's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviogomesbr&count_private=true&theme=dracula">
   </a>
 
   
