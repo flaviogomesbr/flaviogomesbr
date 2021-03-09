@@ -3,7 +3,7 @@
 Hi there, I'm **Flavio Gomes**, **a self-taught student of software engineering**.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flaviogomesbr" alt="flaviogomesbr" /> </p> 
 
-I love code, bike, music and art!
+I love technology 🤖, code 👨💻, bike 🚲, music 🎧 and art 🎨!
 
 ### Talking about Personal Stuffs:
 
