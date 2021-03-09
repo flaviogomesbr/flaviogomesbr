@@ -43,7 +43,7 @@
 
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-  <code><img width="5%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"><a href="https://www.python.org/" target="_blank"></code>
+  <code><img width="5%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
   <code><img width="5%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>         
   <br />
 
@@ -59,10 +59,10 @@
   <br />
 
   <code><img width="5%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
-  <code><img width="5%"  src="https://www.vectorlogo.zone/logos/github/github-icon.svg"><a href="https://github.com/" target="_blank"></code>
+  <code><img width="5%" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></code>
   <code><img width="5%" src="https://images.ctfassets.net/lpjm8d10rkpy/6GIrtBy1QABNIFNcnyKxo1/8e651d482fe0e350280991535b171582/aws.svg"></code>
   <code><img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg"></code>
-  <code><img width="5%"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+  <code><img width="5%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
   <br />
   <br />
 </p>
