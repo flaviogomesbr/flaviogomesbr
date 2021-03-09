@@ -11,7 +11,7 @@
 
 </p>
 
-<h3 align="center">Software engineering self-taught student</h3>
+<h3 align="center">Software engineering student</h3>
 <h3 align="center">Bachelor's degree in Civil Engineer</h3>
 
 <p align="center">
