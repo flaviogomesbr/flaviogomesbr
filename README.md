@@ -1,4 +1,4 @@
-## Hey 👋, I'm Flavio Gomes
+## Hey <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>, I'm Flavio Gomes
 
 Hi there, I'm **Flavio Gomes**, **a self-taught student of software engineering**.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flaviogomesbr" alt="flaviogomesbr" /> </p> 
