@@ -25,7 +25,7 @@
 - 🤖 I love technology and art (Leonardo da Vinci, you're the man!) 🎨
 - 🕵️‍ I'm always looking for problems to solve. I love it!
 - 📚 I’m currently learning **JAVA**
-- ✅ My interests are **JAVA, React, Python programming and algorithms**
+- ✅ My interests are **JAVA, PHP, React, Python programming and algorithms**
 - 💬 Ask me about anything, **I'm happy to help**
 - ⚡ Fun facts: **I love dogs, memes, bikes and music** 🐶 👽 🚲 📻 
 - ⏳ I’m currently working on: <a href="https://eduimpulso.herokuapp.com" target="_blank">EduImpulso </a>
