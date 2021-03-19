@@ -58,7 +58,7 @@
   ![Bootstrap](https://img.shields.io/badge/BootStrap%20-%23563D7C.svg?&style=flat&logo=bootstrap&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js%20-%2343853D.svg?&style=flat&logo=node.js&logoColor=white)
   ![React](https://img.shields.io/badge/React.js%20-%2320232a.svg?&style=flat&logo=react&logoColor=%2361DAFB)
-  ![React Native](https://img.shields.io/badge/-React%20Native-45b8d8?style=flat-square&logo=react&logoColor=white)
+  
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/Git%20-%23F05033.svg?&style=flat&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub%20-%23121011.svg?&style=flat&logo=github&logoColor=white)
@@ -66,7 +66,7 @@
   ![Apache](https://img.shields.io/badge/Apache%20-%23D42029.svg?&style=flat&logo=apache&logoColor=white)
   ![Nginx](https://img.shields.io/badge/Nginx%20-%23009639.svg?&style=flat&logo=nginx&logoColor=white)
   ![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?&style=flat&logo=heroku&logoColor=white)
-  ![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat-square&logo=vercel&logoColor=white)
+
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 - 🖥 &nbsp;
@@ -83,3 +83,5 @@
 👨‍🚀 by [Flavio Gomes](https://github.com/flaviogomesbr)
 
 </p>
+
+<!-- ![React Native](https://img.shields.io/badge/-React%20Native-45b8d8?style=flat-square&logo=react&logoColor=white) --!>                                                      <!-- ![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat-square&logo=vercel&logoColor=white) --!>     
