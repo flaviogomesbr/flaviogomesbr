@@ -32,15 +32,13 @@
 <br/>
 <br/>
 
-<h3>Languages and frameworks that I'm interested in and studying:</h3> 
+<h3>🛠 &nbsp;Languages, frameworks and desktop environment that I'm interested in and studying:</h3> 
 
 <p>
 
   <a href="https://github.com/flaviogomesbr/github-readme-stats">
   <img width="35%" align="right" alt="FlavioGomes's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviogomesbr&count_private=true&theme=dracula">
   </a>
-
-<h3>🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white)
