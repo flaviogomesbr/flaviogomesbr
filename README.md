@@ -26,7 +26,7 @@
 - 🕵️‍ I'm always looking for problems to solve. I love it!;
 - 📚 I’m currently learning **JAVA**;
 - ✅ My interests are **JAVA, PHP, React, Python programming and algorithms**;
-- 👽 Fun facts: **I love dogs, memes and hip hop** ;
+- 👽 Fun facts: **I love dogs, memes and hip hop**;
 - ⏳ I’m currently working on: <a href="https://eduimpulso.herokuapp.com/quiz" target="_blank">EduImpulso </a>
 
 <br/>
