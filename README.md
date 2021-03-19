@@ -12,7 +12,7 @@
   </a>
   
   <a href="mailto:flaviogonasc@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Spotify-c14438?style=flat&logo=Spotify&logoColor=white">
+    <img src="https://img.shields.io/badge/-Spotify-green?style=flat&logo=Spotify&logoColor=white">
   </a>
 
 </p>
