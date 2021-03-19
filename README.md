@@ -13,7 +13,7 @@
 
 </p>
 
-<h3 align="center"> 👨🏽‍💻 Software Engineering Student & Bachelor's degree in Civil Engineer </h3>
+<h3 align="center">Software Engineering Student & Bachelor's degree in Civil Engineer </h3>
 
 <p align="center">
   <img alt="ProfilViews" src="https://views.whatilearened.today/views/github/flaviogomesbr/flaviogomesbr.svg" />
@@ -34,6 +34,7 @@
 
 <h3>🛠 &nbsp;Languages, frameworks and desktop environment that I'm interested in and studying:</h3> 
 <br/>
+<br/>
 <p>
 
   <a href="https://github.com/flaviogomesbr/github-readme-stats">
@@ -43,11 +44,14 @@
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white)
   ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?&style=flat&logo=php&logoColor=white)
+  [![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/flaviogomesbr)](https://github.com/flaviogomesbr) 
+  [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/flaviogomesbr)](https://github.com/flaviogomesbr) 
   
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=flat&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)
+  ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat&logo=javascript&
+  logoColor=%23F7DF1E)
   ![Bootstrap](https://img.shields.io/badge/BootStrap%20-%23563D7C.svg?&style=flat&logo=bootstrap&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js%20-%2343853D.svg?&style=flat&logo=node.js&logoColor=white)
   ![React](https://img.shields.io/badge/React.js%20-%2320232a.svg?&style=flat&logo=react&logoColor=%2361DAFB)
