@@ -40,43 +40,31 @@
   <img width="35%" align="right" alt="FlavioGomes's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviogomesbr&count_private=true&theme=dracula">
   </a>
 
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-  <code><img width="5%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
-  <code><img width="5%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>         
-  <br />
+<h3>🛠 &nbsp;Tech Stack</h3>
 
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="5%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
-  <br />
-
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  <code><img width="5%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code> 
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
-  <br />
-
-  <code><img width="5%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
-  <code><img width="5%" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></code>
-  <code><img width="5%" src="https://images.ctfassets.net/lpjm8d10rkpy/6GIrtBy1QABNIFNcnyKxo1/8e651d482fe0e350280991535b171582/aws.svg"></code>
-  <code><img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg"></code>
-  <code><img width="5%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-  <br />
-  <br />
-</p>
-
-<h3>Desktop Environment that I'm interested in and studying:</h3>
-<p align="left">
-  <code><img width="10%" href="https://code.visualstudio.com/" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
-  <code><img width="10%" href="https://ubuntu.com/" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
-  <code><img width="10%" href="https://www.linux.org/" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
-  <code><img width="10%" href="https://www.microsoft.com/" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-ar21.svg"></code>
-  <br />
-  
-  <code><img width="10%" href="https://discord.com/" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-ar21.svg"></code>
-  <code><img width="5%" href="https://slack.com/intl/pt-br/" src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg"></code>
-</p>
+- 💻 &nbsp;
+  ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?&style=flat&logo=php&logoColor=white)
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=flat&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=flat&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)
+  ![Bootstrap](https://img.shields.io/badge/BootStrap%20-%23563D7C.svg?&style=flat&logo=bootstrap&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js%20-%2343853D.svg?&style=flat&logo=node.js&logoColor=white)
+  ![React](https://img.shields.io/badge/React.js%20-%2320232a.svg?&style=flat&logo=react&logoColor=%2361DAFB)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/Git%20-%23F05033.svg?&style=flat&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub%20-%23121011.svg?&style=flat&logo=github&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?&style=flat&logo=mysql&logoColor=white)
+  ![Apache](https://img.shields.io/badge/Apache%20-%23D42029.svg?&style=flat&logo=apache&logoColor=white)
+  ![Nginx](https://img.shields.io/badge/Nginx%20-%23009639.svg?&style=flat&logo=nginx&logoColor=white)
+  ![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?&style=flat&logo=heroku&logoColor=white)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+- 🖥 &nbsp;
+  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+  	![Figma](https://img.shields.io/badge/Figma%20-%23F24E1E.svg?&style=flat&logo=figma&logoColor=white)
+<br/>
 
 <br/>
 
