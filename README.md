@@ -13,7 +13,7 @@
 
 </p>
 
-<h3 align="center">Software Engineering Student & Bachelor's degree in Civil Engineer </h3>
+<h3 align="center"> 👨🏽‍💻 Software Engineering Student & Bachelor's degree in Civil Engineer </h3>
 
 <p align="center">
   <img alt="ProfilViews" src="https://views.whatilearened.today/views/github/flaviogomesbr/flaviogomesbr.svg" />
