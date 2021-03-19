@@ -26,7 +26,7 @@
 - 🕵️‍ I'm always looking for problems to solve. I love it!;
 - 📚 I’m currently learning **JAVA**;
 - ✅ My interests are **JAVA, PHP, React, Python programming and algorithms**;
-- 👽 Fun facts: **I love dogs, memes and hip hop**;
+- 👽 Fun facts: **I love dogs, memes and hip hop** ;
 - ⏳ I’m currently working on: <a href="https://eduimpulso.herokuapp.com/quiz" target="_blank">EduImpulso </a>
 
 <br/>
@@ -41,8 +41,8 @@
   </a>
 
 - 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white&link=https://github.com/flaviogomesbr)](https://github.com/flaviogomesbr)
-  ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?&style=flat&logo=php&logoColor=white&link=https://github.com/flaviogomesbr)](https://github.com/flaviogomesbr) 
+  ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?&style=flat&logo=php&logoColor=white)
   [![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/flaviogomesbr)](https://github.com/flaviogomesbr) 
   [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/flaviogomesbr)](https://github.com/flaviogomesbr) 
   
