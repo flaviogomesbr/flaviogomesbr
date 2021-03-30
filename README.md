@@ -73,8 +73,8 @@
   ![Figma](https://img.shields.io/badge/Figma%20-%23F24E1E.svg?&style=flat&logo=figma&logoColor=white)
   ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
   ![Linux](https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white)
-  ![Excel](https://img.shields.io/badge/-MS Excel-16C60C?style=flat-square&logo=excel&logoColor=white)
-  ![MS Project](https://img.shields.io/badge/-MS Project-16C60C?style=flat-square&logo=project&logoColor=white)
+  ![Excel](https://img.shields.io/badge/-MS_Excel-16C60C?style=flat-square&logo=excel&logoColor=white)
+  ![MS Project](https://img.shields.io/badge/-MS_Project-16C60C?style=flat-square&logo=project&logoColor=white)
 
 <br/>
 
