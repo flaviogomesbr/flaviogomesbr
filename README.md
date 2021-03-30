@@ -73,6 +73,7 @@
   ![Figma](https://img.shields.io/badge/Figma%20-%23F24E1E.svg?&style=flat&logo=figma&logoColor=white)
   ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
   ![Linux](https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white)
+  ![Excel](https://img.shields.io/badge/-Excel-16C60C?style=flat-square&logo=linux&logoColor=white)
 
 <br/>
 
