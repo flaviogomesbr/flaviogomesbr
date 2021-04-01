@@ -10,10 +10,6 @@
   <a href="mailto:flaviogonasc@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white">
   </a>
-  
-  <a href="https://open.spotify.com/user/flaviogonasc?si=HYbypZvlR_iJlPhrr-VNBg" target="_blank">
-    <img src="https://img.shields.io/badge/-Spotify-38c144?style=flat&logo=Spotify&logoColor=white">
-  </a>
 
 </p>
 
