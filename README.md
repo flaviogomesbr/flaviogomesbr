@@ -23,8 +23,8 @@
 <img width="30%" align="right" alt="Github Image" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif"/>
 
 - 🕵️‍ I'm always looking for problems to solve. I love it!;
-- 📚 I’m currently learning **JAVA**;
-- ✅ My interests are **JAVA, Javascript, SQL, AWS and algorithms**;
+- 📚 I’m currently learning **Java**;
+- ✅ My interests are **Java, Javascript, SQL, AWS and algorithms**;
 - 👽 Fun facts: **I love dogs, airplanes and hip hop**;
 - 🤖 I also love technology and art (Leonardo da Vinci, you're the man!); 🎨
 - ⏳ I’m currently working on: <a href="https://eduimpulso.herokuapp.com/quiz" target="_blank">EduImpulso </a>
