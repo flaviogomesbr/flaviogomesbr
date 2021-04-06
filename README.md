@@ -27,6 +27,7 @@
 - ✅ My interests are **Java, Javascript, SQL, AWS and algorithms**;
 - 👽 Fun facts: **I love dogs, airplanes and hip hop**;
 - 🤖 I also love technology and art (Leonardo da Vinci, you're the man!); 🎨
+- 👨‍🚀 This is my portfolio: <a href="https://flaviogomesbr.github.io/flaviopage/" target="_blank">Flavio portfolio's </a>
 - ⏳ I’m currently working on: <a href="https://eduimpulso.herokuapp.com/quiz" target="_blank">EduImpulso </a>
 
 <br/>
