@@ -25,8 +25,8 @@
 <img width="30%" align="right" alt="Github Image" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif"/>
 
 - 🕵️‍ I'm always looking for problems to solve. I love it!;
-- 📚 I’m currently learning **Java and Node.js**;
-- ✅ My interests are **Java, Node.js, SQL, AWS and algorithms**;
+- 📚 I’m currently learning **C# and Node.js**;
+- ✅ My interests are **C#, Node.js, SQL, AWS and algorithms**;
 - 👽 Fun facts: **I love dogs, airplanes and hip hop**;
 - 🤖 I also love technology and art (Leonardo da Vinci, you're the man!); 🎨
 - 👨‍🚀 This is my portfolio: <a href="https://flaviogomesbr.github.io/flaviopage/" target="_blank">Flavio portfolio's </a>
