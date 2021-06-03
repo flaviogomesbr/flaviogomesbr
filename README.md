@@ -68,6 +68,7 @@
 
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio%20-333333?style=flat&logo=visual-studio&logoColor=007ACC)
 - 🖥 &nbsp;
   ![Figma](https://img.shields.io/badge/Figma%20-%23F24E1E.svg?&style=flat&logo=figma&logoColor=white)
   ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
