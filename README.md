@@ -44,8 +44,8 @@
   </a>
 
 - 💻 &nbsp;
-  [![C#](https://img.shields.io/badge/CSharp-purple?style=flat&logo=csharp&logoColor=white&link=https://github.com/flaviogomesbr)](https://github.com/flaviogomesbr)
-  [![.NET](https://img.shields.io/badge/DotNet-blue?style=flat&logo=dotnet&logoColor=white&link=https://github.com/flaviogomesbr)](https://github.com/flaviogomesbr)
+  [![C#](https://img.shields.io/badge/C#%20-%2343853D.svg?&style=flat&logo=c#&logoColor=white)
+  [![.NET](https://img.shields.io/badge/.NET%20-%2343853D.svg?&style=flat&logo=dotnet&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js%20-%2343853D.svg?&style=flat&logo=node.js&logoColor=white)
   [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/flaviogomesbr)](https://github.com/flaviogomesbr) 
   ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?&style=flat&logo=php&logoColor=white)
@@ -54,16 +54,16 @@
 
   
 - 🌐 &nbsp;
+  ![React](https://img.shields.io/badge/React.js%20-%2320232a.svg?&style=flat&logo=react&logoColor=%2361DAFB)
   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=flat&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/BootStrap%20-%23563D7C.svg?&style=flat&logo=bootstrap&logoColor=white)
   
-  ![React](https://img.shields.io/badge/React.js%20-%2320232a.svg?&style=flat&logo=react&logoColor=%2361DAFB)
-  
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/Git%20-%23F05033.svg?&style=flat&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub%20-%23121011.svg?&style=flat&logo=github&logoColor=white)
+  ![GitLab](https://img.shields.io/badge/GitLab%20-%23121011.svg?&style=flat&logo=gitlab&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?&style=flat&logo=mysql&logoColor=white)
   ![Apache](https://img.shields.io/badge/Apache%20-%23D42029.svg?&style=flat&logo=apache&logoColor=white)
   ![Nginx](https://img.shields.io/badge/Nginx%20-%23009639.svg?&style=flat&logo=nginx&logoColor=white)
@@ -72,6 +72,8 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio%20-333333?style=flat&logo=visual-studio&logoColor=007ACC)
+  ![Eclipse](https://img.shields.io/badge/-Eclipse%20-333333?style=flat&logo=visual-studio&logoColor=007ACC)
+  
 - 🖥 &nbsp;
   ![Figma](https://img.shields.io/badge/Figma%20-%23F24E1E.svg?&style=flat&logo=figma&logoColor=white)
   ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
