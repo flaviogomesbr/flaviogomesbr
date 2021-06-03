@@ -26,11 +26,11 @@
 
 - 🕵️‍ I'm always looking for problems to solve. I love it!;
 - 📚 I’m currently learning **C# and Node.js**;
-- ✅ My interests are **C#, Node.js, SQL, AWS and algorithms**;
+- ✅ My interests are **C# (.NET), JavasScript (Node.JS), SQL, AWS and algorithms**;
 - 🤖 I love technology and art (Leonardo da Vinci, you're the man!); 🎨
 - 👽 Fun facts: **I also love dogs, airplanes and hip hop**;
 - 👨‍🚀 This is my portfolio: <a href="https://flaviogomesbr.github.io/flaviopage/" target="_blank">Flavio portfolio's </a>
-- ⏳ I’m currently working on: <a href="https://eduimpulso.herokuapp.com/quiz" target="_blank">EduImpulso </a>
+- ⏳ I’m currently working on: <a href="https://www.funcionalcorp.com.br/" target="_blank">Funcional Health Tech </a>
 
 <br/>
 <br/>
@@ -45,6 +45,7 @@
 
 - 💻 &nbsp;
   [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/flaviogomesbr)](https://github.com/flaviogomesbr) 
+  [![C#](https://img.shields.io/badge/Csharp-orange?style=flat&logo=csharp&logoColor=white&link=https://github.com/flaviogomesbr)](https://github.com/flaviogomesbr)
   ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?&style=flat&logo=php&logoColor=white)
   ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white)
   [![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/flaviogomesbr)](https://github.com/flaviogomesbr) 
