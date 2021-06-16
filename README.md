@@ -26,7 +26,7 @@
 
 - 🕵️‍ I'm always looking for problems to solve. I love it!;
 - 📚 I’m currently learning **C# and Node.js**;
-- ✅ My interests are **C# (.NET), JavaScript (Node.JS), SQL, AWS and algorithms**;
+- ✅ My interests are **C# (.NET), JavaScript (Node.js), SQL, AWS and algorithms**;
 - 🤖 I love technology and art (Leonardo da Vinci, you're the man!); 🎨
 - 👽 Fun facts: **I also love dogs, airplanes and hip hop**;
 - 👨‍🚀 This is my portfolio: <a href="https://flaviogomesbr.github.io/flaviopage/" target="_blank">Flavio portfolio's </a>
