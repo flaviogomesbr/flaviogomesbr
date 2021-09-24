@@ -15,7 +15,7 @@
 
 </p>
 
-<h3 align="center">👨🏽‍💻 Self Taught Programmer & Bachelor's degree in Civil Engineer </h3>
+<h3 align="center">👨🏽‍💻 Self Taught Developer & Bachelor's degree in Civil Engineer </h3>
 
 <p align="center">
   <img alt="ProfilViews" src="https://views.whatilearened.today/views/github/flaviogomesbr/flaviogomesbr.svg" />
@@ -26,7 +26,7 @@
 
 - 🕵️‍ I'm always looking for problems to solve. I love it!;
 - 📚 I’m currently learning **C# and Node.js**;
-- ✅ My interests are **C# (.NET), JavaScript (Node.js), SQL, AWS and algorithms**;
+- ✅ My interests are **JavaScript (Node.js and NestJS), C# (.NET), SQL, and algorithms**;
 - 🤖 I love technology and art (Leonardo da Vinci, you're the man!); 🎨
 - 👽 Fun facts: **I also love dogs, airplanes and hip hop**;
 - 👨‍🚀 This is my portfolio: <a href="https://flaviogomesbr.github.io/flaviopage/" target="_blank">Flavio portfolio's </a>
