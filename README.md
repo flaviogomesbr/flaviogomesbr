@@ -21,7 +21,7 @@
 
 <p align="center">
   <img alt="ProfilViews" src="https://views.whatilearened.today/views/github/flaviogomesbr/flaviogomesbr.svg" />
-  <img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=flaviogomesbr.flaviogomesbr" />
+<!--  <img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=flaviogomesbr.flaviogomesbr" />  -->
 </p>
 
 <img width="30%" align="right" alt="Github Image" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif"/>
