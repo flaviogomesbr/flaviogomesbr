@@ -34,6 +34,7 @@
 
 <br/>
 <br/>
+<br/>
 
 <h3>🛠 &nbsp;Languages, frameworks and desktop environment that I'm interested in and studying:</h3> 
 <br/>
