@@ -30,8 +30,6 @@
 - 📚 I’m currently learning **Node.js and C#**;
 - ✅ My interests are **JavaScript (Node.js and NestJS), C# (.NET), Python, SQL, and algorithms**;
 - 🤖 I love technology and art (Leonardo da Vinci, you're the man!); 🎨
-- 👽 Fun facts: **I also love dogs, airplanes and hip hop**;
-- 👨‍🚀 This is my portfolio: <a href="https://flaviogomesbr.github.io/flaviopage/" target="_blank">Flavio portfolio's </a>
 - ⏳ I’m currently working on <a href="https://www.funcionalcorp.com.br/" target="_blank">Funcional Health Tech </a>
 
 <br/>
