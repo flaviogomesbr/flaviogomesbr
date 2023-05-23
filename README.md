@@ -29,7 +29,6 @@
 - 🕵️‍ I'm always looking for problems to solve. I love it!;
 - 📚 I’m currently learning **Node.js and C#**;
 - ✅ My interests are **JavaScript (Node.js and NestJS), C# (.NET), Python, SQL, and algorithms**;
-- 🤖 I love technology and art (Leonardo da Vinci, you're the man!); 🎨
 - ⏳ I’m currently working on <a href="https://www.funcionalcorp.com.br/" target="_blank">Funcional Health Tech </a>
 
 <br/>
