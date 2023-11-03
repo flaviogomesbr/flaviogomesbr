@@ -17,7 +17,7 @@
 
 </p>
 
-<h3 align="center"> Self Taught Developer and Civil Engineer </h3>
+<h3 align="center"> Software Developer and Civil Engineer </h3>
 
 <p align="center">
   <img alt="ProfilViews" src="https://views.whatilearened.today/views/github/flaviogomesbr/flaviogomesbr.svg" />
@@ -27,9 +27,9 @@
 <img width="30%" align="right" alt="Github Image" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif"/>
 
 - 🕵️‍ I'm always looking for problems to solve. I love it!;
-- 📚 I’m currently learning **Node.js and C#**;
-- ✅ My interests are **JavaScript (Node.js and NestJS), C# (.NET), Python, SQL, and algorithms**;
-- ⏳ I’m currently working on <a href="https://www.funcionalcorp.com.br/" target="_blank">Funcional Health Tech </a>
+- 📚 I’m currently learning **Node.js and Java**;
+- ✅ My interests are **JavaScript (Node.js and NestJS), Java (SpringBoot), Python, SQL, and algorithms**;
+- ⏳ I’m currently working on <a href="[https://www.funcionalcorp.com.br/](https://www.mercadolivre.com.br/)" target="_blank">Mercado Livre </a>
 
 <br/>
 <br/>
