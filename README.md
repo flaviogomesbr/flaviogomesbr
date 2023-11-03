@@ -29,7 +29,7 @@
 - 🕵️‍ I'm always looking for problems to solve. I love it!;
 - 📚 I’m currently learning **Node.js and Java**;
 - ✅ My interests are **JavaScript (Node.js and NestJS), Java (SpringBoot), Python, SQL, and algorithms**;
-- ⏳ I’m currently working on <a href="[https://www.funcionalcorp.com.br/](https://www.mercadolivre.com.br/)" target="_blank">Mercado Livre </a>
+- ⏳ I’m currently working on <a href="[https://www.mercadolivre.com.br]" target="_blank">Mercado Livre </a>
 
 <br/>
 <br/>
