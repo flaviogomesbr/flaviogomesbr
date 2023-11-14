@@ -2,22 +2,12 @@
                    <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px">
                    <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Flavio Gomes</h1>
  <p align="center"><br/>
-
-  <!--
-  <a href="https://www.linkedin.com/in/flaviogomesbr/"  target="_blank">
-    <!-- <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white">
-  </a>
-  -->
-
-  <!--
-  <a href="mailto:flaviogonasc@gmail.com" target="_blank">
-     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"> 
-  </a>
-  -->
-
+   
+  <!-- 
 </p>
 
-<h3 align="center"> Software Developer and Civil Engineer </h3>
+  <h3 align="center"> Software Developer and Civil Engineer </h3>
+  -->
 
 <p align="center">
   <img alt="ProfilViews" src="https://views.whatilearened.today/views/github/flaviogomesbr/flaviogomesbr.svg" />
@@ -28,7 +18,7 @@
 
 - 🕵️‍ I'm always looking for problems to solve. I love it!;
 - 📚 I’m currently learning **Node.js and Java**;
-- ✅ My interests are **JavaScript (Node.js and NestJS), Java (Spring Boot), Python, SQL, and algorithms**;
+- ✅ My interests are **JavaScript (Node.js and NestJS), Java (Spring Boot), Python, SQL and algorithms**;
 - ⏳ I’m currently working on <a href="[(https://www.mercadolivre.com.br)]" target="_blank"> Mercado Livre </a>
 
 <br/>
