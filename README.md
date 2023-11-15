@@ -18,7 +18,7 @@
 
 - 🕵️‍ I'm always looking for problems to solve. I love it!;
 - 📚 I’m currently learning **Node.js and Java**;
-- ✅ My interests are **JavaScript (Node.js and NestJS), Java (Spring Boot), Python, SQL and algorithms**;
+- ✅ My interests are **Java (Spring Boot), JavaScript (Node.js and NestJS), Python, SQL and algorithms**;
 - ⏳ I’m currently working on <a href="[(https://www.mercadolivre.com.br)]" target="_blank"> Mercado Livre </a>
 
 <br/>
