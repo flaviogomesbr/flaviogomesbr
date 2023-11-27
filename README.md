@@ -17,7 +17,7 @@
 <img width="30%" align="right" alt="Github Image" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif"/>
 
 - 🕵️‍ I'm always looking for problems to solve. I love it!;
-- 📚 I’m currently learning **Node.js and Java**;
+- 📚 I’m currently learning **Java**;
 - ✅ My interests are **Java (Spring Boot), JavaScript (Node.js and NestJS), Python, SQL and algorithms**;
 - ⏳ I’m currently working on [Mercado Livre](https://www.mercadolivre.com.br)
 
