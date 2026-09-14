@@ -19,7 +19,6 @@
 - 🕵️‍ I'm always looking for problems to solve. I love it!!!;
 - 📚 I’m currently learning **Java**;
 - ✅ My interests are **Java (Spring Boot), JavaScript (Node.js and NestJS), Python, SQL and algorithms**;
-- ⏳ I’m currently working on [Mercado Livre](https://www.mercadolivre.com.br)
 
 <br/>
 <br/>
