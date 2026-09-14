@@ -29,9 +29,6 @@
 <br/>
 <p>
 
-  <a href="https://github.com/flaviogomesbr/github-readme-stats">
-  <img width="35%" align="right" alt="FlavioGomes's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviogomesbr&count_private=true&theme=dracula">
-  </a>
 
 - 💻 &nbsp;
   [![C#](https://img.shields.io/badge/CSharp-purple?style=flat&logo=csharp&logoColor=white&link=https://github.com/flaviogomesbr)](https://github.com/flaviogomesbr)
